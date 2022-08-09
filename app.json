@@ -9,7 +9,7 @@
         "Shell",
         "Valerina"
     ],
-    "repository": "https://github.com/Amarnathcdj/valeri",
+    "repository": "https://github.com/midlajkv/Valeri.git",
     "buildpacks": [
         {
             "url": "heroku/python"
